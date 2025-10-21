@@ -1,0 +1,134 @@
+{
+  "en": {
+    "brand": "AFA Transfers",
+    "nav": {
+      "about": "About",
+      "fleet": "Fleet",
+      "tours": "Tours",
+      "order": "Order",
+      "contact": "Contact"
+    },
+    "home": {
+      "eyebrow": "Business transfers",
+      "title": "Business transfers across Riga and the Baltics.",
+      "lead": "Mercedes-Benz, Volvo and BMW vehicles. Professional chauffeurs. Fixed quotes & invoices."
+    },
+    "about": {
+      "h": "About",
+      "p": "We provide business and premium transfers across Latvia and the Baltics. Our clients include hotels, companies, embassies and private travelers who value comfort and punctuality.",
+      "p2": "Every ride is personalised: flight monitoring, meet & greet, luggage assistance and a smooth door-to-door experience.",
+      "tours": "Beyond transfers, we organise custom tours across the Baltics — Riga, Jurmala, Sigulda & Turaida, Rundāle, Hill of Crosses, Vilnius, Tallinn old town and more — with English-speaking drivers and well-maintained vehicles."
+    },
+    "tours": {
+      "h": "Baltic Tours",
+      "lead": "Private day trips and multi-day tours with English-speaking drivers. Fixed itineraries or fully custom routes.",
+      "cards": "Popular routes",
+      "cta": "Request this tour"
+    },
+    "fleet": {
+      "h": "Our Fleet",
+      "v": "from €50",
+      "e": "from €40",
+      "s": "from €70",
+      "spr": "from €95",
+      "volvo": "from €40",
+      "bmw": "from €40"
+    },
+    "order": {
+      "h": "Order a transfer",
+      "lead": "Address fields support autocompletion for streets, hotels and POIs."
+    },
+    "contact": {
+      "h": "Contact",
+      "p": "24/7. Call or write us on WhatsApp."
+    }
+  },
+  "lv": {
+    "brand": "AFA Transfers",
+    "nav": {
+      "about": "Par mums",
+      "fleet": "Autoparks",
+      "tours": "Tūres",
+      "order": "Pasūtīt",
+      "contact": "Kontakti"
+    },
+    "home": {
+      "eyebrow": "Biznesa transfēri",
+      "title": "Biznesa transfēri Rīgā un Baltijā.",
+      "lead": "Mercedes-Benz, Volvo un BMW auto. Profesionāli šoferi. Fiksētas cenas un rēķini."
+    },
+    "about": {
+      "h": "Par mums",
+      "p": "Nodrošinām biznesa un premium klases transfērus visā Latvijā un Baltijā. Mūsu klienti ir viesnīcas, uzņēmumi, vēstniecības un privātpersonas, kurām svarīgs komforts un precizitāte.",
+      "p2": "Katra brauciena detaļas pielāgojam individuāli: lidojumu monitorings, sagaidīšana ar uzrakstu, palīdzība ar bagāžu un ērts serviss no durvīm līdz durvīm.",
+      "tours": "Papildus transfēriem piedāvājam arī individuālas tūres pa Baltiju — Rīga, Jūrmala, Sigulda un Turaida, Rundāle, Krustu kalns, Viļņa, Tallinas vecpilsēta u.c. — ar angliski runājošiem šoferiem un uzturētiem auto."
+    },
+    "tours": {
+      "h": "Baltijas tūres",
+      "lead": "Privātas dienas un vairāku dienu tūres ar angliski runājošiem šoferiem. Gatavi maršruti vai pilnībā pielāgoti.",
+      "cards": "Populāri maršruti",
+      "cta": "Pieteikt šo tūri"
+    },
+    "fleet": {
+      "h": "Autoparks",
+      "v": "no €50",
+      "e": "no €40",
+      "s": "no €70",
+      "spr": "no €95",
+      "volvo": "no €40",
+      "bmw": "no €40"
+    },
+    "order": {
+      "h": "Pasūtīt transfēru",
+      "lead": "Adrešu lauki piedāvā ieteikumus ielām, viesnīcām un objektiem."
+    },
+    "contact": {
+      "h": "Kontakti",
+      "p": "Strādājam 24/7. Zvaniet vai rakstiet WhatsApp."
+    }
+  },
+  "ru": {
+    "brand": "AFA Transfers",
+    "nav": {
+      "about": "О компании",
+      "fleet": "Автопарк",
+      "tours": "Туры",
+      "order": "Заказ",
+      "contact": "Контакты"
+    },
+    "home": {
+      "eyebrow": "Бизнес-трансферы",
+      "title": "Бизнес-трансферы в Риге и по Балтии.",
+      "lead": "Автомобили Mercedes-Benz, Volvo и BMW. Профессиональные водители. Фиксированные цены и счета."
+    },
+    "about": {
+      "h": "О компании",
+      "p": "Мы предоставляем бизнес- и премиум-трансферы по Латвии и Балтии. Нас выбирают отели, компании, посольства и частные путешественники, ценящие комфорт и пунктуальность.",
+      "p2": "Каждая поездка индивидуальна: мониторинг рейсов, встреча с табличкой, помощь с багажом и комфорт от двери до двери.",
+      "tours": "Кроме трансферов, организуем авторские туры по Балтии — Рига, Юрмала, Сигулда и Турайда, Рундале, Гора Крестов, Вильнюс, старый город Таллина и др. — с англоговорящими водителями и ухоженными автомобилями."
+    },
+    "tours": {
+      "h": "Туры по Балтии",
+      "lead": "Индивидуальные однодневные и многодневные туры с англоговорящими водителями. Готовые маршруты или полностью индивидуальные.",
+      "cards": "Популярные маршруты",
+      "cta": "Заказать этот тур"
+    },
+    "fleet": {
+      "h": "Наш автопарк",
+      "v": "от €50",
+      "e": "от €40",
+      "s": "от €70",
+      "spr": "от €95",
+      "volvo": "от €40",
+      "bmw": "от €40"
+    },
+    "order": {
+      "h": "Заказать трансфер",
+      "lead": "Подсказки адресов: улицы, отели и объекты."
+    },
+    "contact": {
+      "h": "Контакты",
+      "p": "Работаем 24/7. Звоните или пишите в WhatsApp."
+    }
+  }
+}
