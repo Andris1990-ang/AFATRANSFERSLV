@@ -1,1 +1,0 @@
-Vercel-ready AFA Transfers with Tours. See Environment Variables in project Settings. Use RESEND_API_KEY (recommended) or SMTP_* (Gmail App Password).
